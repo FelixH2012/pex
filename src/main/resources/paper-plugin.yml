@@ -1,0 +1,6 @@
+name: Permissions
+version: '${version}'
+main: de.felix.permissions.Permissions
+api-version: '1.21'
+description: Basic permissions plugin demo for Playlegend server.
+authors: [Felix1337]
